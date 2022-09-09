@@ -1,0 +1,22 @@
+{
+  "name": "tdl-ts-challenge",
+  "version": "1.0.0",
+  "description": "just record daily learning ts driven by tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkstone-pool/tdl-ts-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inkstone-pool/tdl-ts-challenge/issues"
+  },
+  "homepage": "https://github.com/inkstone-pool/tdl-ts-challenge#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
