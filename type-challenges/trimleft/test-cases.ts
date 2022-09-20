@@ -1,5 +1,4 @@
 import type { Equal, Expect } from '@type-challenges/utils'
-type a=TrimLeft<'str'>
 type cases = [
   Expect<Equal<TrimLeft<'str'>, 'str'>>,
   Expect<Equal<TrimLeft<' str'>, 'str'>>,
